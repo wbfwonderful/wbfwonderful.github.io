@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Wang Benfeng, currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/), Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/), Changsha, China in 2024. 
+Hi! I am Benfeng Wang, currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/), Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/), Changsha, China in 2024. 
 
 I am interested in 
 - Deep learning
