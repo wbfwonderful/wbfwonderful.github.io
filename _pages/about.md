@@ -15,11 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-![](https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/balls.gif)
+![](https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/short-balls.gif)
 
 <span class='anchor' id='about-me'></span>
 # 😎 About me
-Hi! I am Benfeng Wang , currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/)![](https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg), Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/)![](https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.png), Changsha, China in 2024. 
+Hi! I am Benfeng Wang , currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg" style="width= 1em;">, Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.jpg" style="width= 1em;">, Changsha, China in 2024. 
 
 I am interested in 
 - 🤖Deep learning
@@ -29,7 +29,7 @@ I am interested in
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 A paper will be accepted at XX...
-- *2024.11*: &nbsp;🎉🎉 Congratulations on the 100th anniversary of the founding of Sun Yat sen University ![](https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu100.jpg).
+- *2024.11*: &nbsp;🎉🎉 Congratulations on the 100th anniversary of the founding of Sun Yat sen University<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu100.jpg" style="width= 1em;">!
 
 
 <span class='anchor' id='publications'></span>
