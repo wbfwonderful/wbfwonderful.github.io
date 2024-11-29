@@ -28,7 +28,7 @@ I am interested in
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 A paper will be accepted at XX...
-- *2024.11*: &nbsp;🎉🎉 Congratulations on the 100th anniversary of the founding of Sun Yat sen University<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu100.jpg" height=15px width=59px>!
+- *2024.11*: &nbsp;🎉🎉 Congratulations on the 100th anniversary of the founding of Sun Yat sen University<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu100.jpg" height=30px width=120px>!
 
 
 <span class='anchor' id='publications'></span>
