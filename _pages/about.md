@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😎 About me
-Hi! I am Benfeng Wang , currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg" width= 15px>, Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.png" width= 15px>, Changsha, China in 2024. 
+Hi! I am Benfeng Wang , currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/) <img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg" width= 15px>, Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/) <img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.png" width= 15px>, Changsha, China in 2024. 
 
 I am interested in 
 - 🤖Deep learning
@@ -28,7 +28,7 @@ I am interested in
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 A paper will be accepted at XX...
-- *2024.11*: &nbsp;🎉🎉 Congratulations on the 100th anniversary of the founding of Sun Yat sen University<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu100.jpg" style="height=15px;">!
+- *2024.11*: &nbsp;🎉🎉 Congratulations on the 100th anniversary of the founding of Sun Yat sen University<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu100.jpg" height=15px>!
 
 
 <span class='anchor' id='publications'></span>
