@@ -15,11 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-![](https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/short-balls.gif)
 
 <span class='anchor' id='about-me'></span>
 # 😎 About me
-Hi! I am Benfeng Wang , currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg" style="width= 1em;">, Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.jpg" style="width= 1em;">, Changsha, China in 2024. 
+Hi! I am Benfeng Wang , currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg" width= 1em>, Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/)<img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.png" width= 1em>, Changsha, China in 2024. 
 
 I am interested in 
 - 🤖Deep learning
