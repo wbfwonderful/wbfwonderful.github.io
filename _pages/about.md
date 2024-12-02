@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😎 About me
-Hi! I am Benfeng Wang , currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/) <img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg" width= 15px> , Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/) <img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.png" width= 15px> , Changsha, China in 2024. 
+Hi! I am Benfeng Wang, currently working for a M.S. degree at [School of Cyber Science and Technology](https://scst.sysu.edu.cn/), [Sun Yat-sen University](https://sysu.edu.cn/) <img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/sysu.jpg" width= 15px> , Shenzhen, China. I receviced my B.S. degree at [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South Univeristy](https://csu.edu.cn/) <img src="https://wbfwonderful.oss-cn-shenzhen.aliyuncs.com/csu.png" width= 15px> , Changsha, China in 2024. 
 
 I am interested in 
 - 🤖Deep learning
