@@ -45,6 +45,7 @@ I am interested in
 - *2024.09 - present*, M.S., School of Cyber Science and Technology, Sun Yat-sen University, Shenzhen
 - *2020.09 - 2024.06*, B.S., School of Computer Science and Engineering, Central South Univeristy, Changsha
 
+<span class='anchor' id='blogs'></span>
 # 📚 Blogs
 - click [here](https://wbfwonderful.github.io/blog/) to visit my blogs!
 
