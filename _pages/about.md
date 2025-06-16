@@ -34,7 +34,7 @@ I am interested in
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submmited NeurIPS 2025</div><img src='images/pub/vad-r1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted NeurIPS 2025</div><img src='images/pub/vad-r1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Though](https://arxiv.org/abs/2505.19877) 
@@ -67,5 +67,5 @@ I am interested in
 
 <span class='anchor' id='blogs'></span>
 # 📚 Blogs
-- click [here](https://wbfwonderful.github.io/blog/) to visit my blogs!
+- Click [here](https://wbfwonderful.github.io/blog/) to visit my blogs!
 
