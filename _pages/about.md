@@ -32,7 +32,27 @@ I am interested in
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-- coming soon...
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Though](https://arxiv.org/abs/2505.19877) 
+- Improve video anomaly reasoning capability for MLLMs. 
+- [[Code](https://github.com/wbfwonderful/Vad-R1)] [[🤗Dataset](https://huggingface.co/datasets/wbfwonderful/Vad-R1)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt](https://ojs.aaai.org/index.php/AAAI/article/view/35398) 
+- Introduce federated learning into VAD to ensure privacy protection.
+- [[Code](https://github.com/wbfwonderful/Fed-WSVAD)]
+</div>
+</div>
+
 
 
 <span class='anchor' id='honors-and-awards'></span>
